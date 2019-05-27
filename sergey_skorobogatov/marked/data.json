@@ -1,8 +1,11 @@
 {
+    "passport":   "55 55 555555",
+    "surname":    "Skorobogatov",
     "name":       "Sergey",
     "patronymic": "Yurievitch",
-    "surname":    "Skorobogatov",
-    "passport":   "22 22 222222",
     "sex":        "male",
-    "phone_num":  "99005553535"
+    "birthdate":  "01.08.1977",
+    "phone_num":  null,
+    "email":      null,
+    "address":    null
 }

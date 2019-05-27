@@ -1,8 +1,11 @@
 {
-    "name":       "Dianne",
-    "patronymic": "-",
+    "passport":   "22 22 222222",
     "surname":    "van Giersbergen",
-    "passport":   "11 11 111111",
+    "name":       "Dianne",
+    "patronymic": null,
     "sex":        "female",
-    "phone_num":  "88005553535"
+    "birthdate":  "03.06.1985",
+    "phone_num":  "88001113131",
+    "email":      "dianne_v_giersbergen@gmail.com",
+    "address":    "Amsterdam, Holland"
 }
