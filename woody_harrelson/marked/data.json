@@ -2,10 +2,10 @@
     "passport":   "77 77 777777",
     "surname":    "Harrelson",
     "name":       "Woody",
-    "patronymic": null,
-    "sex":        null,
-    "birthdate":  null,
-    "phone_num":  null,
+    "patronymic": "-",
+    "sex":        "-",
+    "birthdate":  "-",
+    "phone_num":  "-",
     "email":      "wh@mail.ru",
-    "address":    null
+    "address":    "-"
 }

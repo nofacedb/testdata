@@ -5,7 +5,7 @@
     "patronymic": "Yurievitch",
     "sex":        "male",
     "birthdate":  "01.08.1977",
-    "phone_num":  null,
-    "email":      null,
-    "address":    null
+    "phone_num":  "-",
+    "email":      "-",
+    "address":    "-"
 }
